@@ -22,8 +22,8 @@ body {
   line-height: 100px;
   color: #eee;
   font-weight: bold;
-  margin:45px 0 85px 0;
-  text-shadow: 0 10px 25px rgba(50,50,50,0.5);
+  margin:35px 0 80px 0;
+  text-shadow: 0 5px 20px rgba(50,50,50,0.5);
 }
 
 @media (max-width: 992px) {
